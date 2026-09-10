@@ -11,9 +11,9 @@ Hishab Tracker was built for a simple recurring workflow: a page/small business 
 - **Advances** — log each customer's advance payment (name, optional details, amount)
 - **Extra costs** — log every additional expense the business pays for
 - **Automatic balance** — for the selected month, advances minus costs is calculated live:
-  - If advances > costs → shown as **"Niloy Uncle Pabe"** (surplus owed back)
-  - If costs > advances → shown as **"Ami Pabe"** (amount to be reimbursed)
-  - If equal → **"হিসাব সমান"** (settled)
+  - If advances > costs → shown as **"surplus owed back"**
+  - If costs > advances → shown as **"amount to be reimbursed"**
+  - If equal → **"settled"** 
 - **Monthly history** — every month's data is stored separately, so past months stay intact and can be revisited anytime via the month selector
 - **Backup & restore** — one-click export of all months to a JSON file, and import to restore from a backup — important for long-term, worry-free use
 - **Installable** — works as an "Add to Home Screen" app on phones, opening full-screen like a native app
