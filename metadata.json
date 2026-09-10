@@ -1,0 +1,6 @@
+{
+  "name": "Hishab Tracker",
+  "description": "মাসিক অগ্রিম ও খরচ ট্র্যাকিং, ব্যালেন্স হিসাব এবং দীর্ঘমেয়াদী নিরাপদ ডেটা ব্যাকআপ অ্যাপ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
